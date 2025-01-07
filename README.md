@@ -18,3 +18,4 @@ Add documentation
 Fix typo in README
 Fix bug in feature X
 Refactor core logic
+Clean up codebase
