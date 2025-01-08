@@ -26,3 +26,4 @@ Update dependencies
 Tweak margin and padding
 Improve error handling
 Update configuration
+Fix broken link
