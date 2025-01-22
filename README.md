@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 -->
 Add documentation
 Fix typo in README
+Fix bug in feature X
