@@ -22,3 +22,4 @@ Clean up codebase
 Update API endpoint
 Improve error handling
 Tweak margin and padding
+Update dependencies
