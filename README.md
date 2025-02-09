@@ -20,3 +20,4 @@ Fix bug in feature X
 Refactor core logic
 Clean up codebase
 Update API endpoint
+Improve error handling
